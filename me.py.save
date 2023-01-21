@@ -1,0 +1,14 @@
+class Car:
+	def d(self):
+		print("hello world")
+
+c1 =  Car()
+c1.company = "ford"
+c1.name = "ecosports"
+
+c2 = Car()
+c2.company = "tata"
+c2.name = "nexon"
+
+c1.d()
+
